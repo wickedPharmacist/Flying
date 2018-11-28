@@ -1,0 +1,15 @@
+{
+	"groups": [
+		{
+			"keys": "splash_bg_png",
+			"name": "splash"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/app/splash/splash_bg.png",
+			"type": "image",
+			"name": "splash_bg_png"
+		}
+	]
+}

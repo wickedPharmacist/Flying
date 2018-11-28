@@ -1,0 +1,15 @@
+{
+    "resourcePlugin": {
+        "configs": [
+            {
+                "configPath": "resource/config/app/res/splash.res.json",
+                "relativePath": "resource/"
+            },
+            {
+                "configPath": "resource/config/app/res/main.res.json",
+                "relativePath": "resource/"
+            }
+        ]
+    },
+    "theme": "resource/main.thm.json"
+}

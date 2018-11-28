@@ -1,0 +1,10 @@
+{
+	"skins": {
+		"app.splash.Splash": "resource/skins/app/splash/SplashSkin.exml"
+	},
+	"autoGenerateExmlsList": false,
+	"path": "resource/config/app/thm/splash.thm.json",
+	"exmls": [
+		"resource/skins/app/splash/SplashSkin.exml"
+	]
+}

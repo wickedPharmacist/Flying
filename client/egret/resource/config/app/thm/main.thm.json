@@ -1,0 +1,36 @@
+{
+	"skins": {
+		"eui.Button": "resource/skins/eui/ButtonSkin.exml",
+		"eui.CheckBox": "resource/skins/eui/CheckBoxSkin.exml",
+		"eui.HScrollBar": "resource/skins/eui/HScrollBarSkin.exml",
+		"eui.HSlider": "resource/skins/eui/HSliderSkin.exml",
+		"eui.Panel": "resource/skins/eui/PanelSkin.exml",
+		"eui.TextInput": "resource/skins/eui/TextInputSkin.exml",
+		"eui.ProgressBar": "resource/skins/eui/ProgressBarSkin.exml",
+		"eui.RadioButton": "resource/skins/eui/RadioButtonSkin.exml",
+		"eui.Scroller": "resource/skins/eui/ScrollerSkin.exml",
+		"eui.ToggleSwitch": "resource/skins/eui/ToggleSwitchSkin.exml",
+		"eui.VScrollBar": "resource/skins/eui/VScrollBarSkin.exml",
+		"eui.VSlider": "resource/skins/eui/VSliderSkin.exml",
+		"eui.ItemRenderer": "resource/skins/eui/ItemRendererSkin.exml",
+		"app.splash.Splash": "resource/skins/app/splash/SplashSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"path": "resource/config/app/thm/main.thm.json",
+	"exmls": [
+		"resource/skins/app/splash/SplashSkin.exml",
+		"resource/skins/eui/ButtonSkin.exml",
+		"resource/skins/eui/CheckBoxSkin.exml",
+		"resource/skins/eui/HScrollBarSkin.exml",
+		"resource/skins/eui/HSliderSkin.exml",
+		"resource/skins/eui/ItemRendererSkin.exml",
+		"resource/skins/eui/PanelSkin.exml",
+		"resource/skins/eui/ProgressBarSkin.exml",
+		"resource/skins/eui/RadioButtonSkin.exml",
+		"resource/skins/eui/ScrollerSkin.exml",
+		"resource/skins/eui/TextInputSkin.exml",
+		"resource/skins/eui/ToggleSwitchSkin.exml",
+		"resource/skins/eui/VScrollBarSkin.exml",
+		"resource/skins/eui/VSliderSkin.exml"
+	]
+}

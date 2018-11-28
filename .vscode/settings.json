@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "client/cocos/library": true,
+        "client/cocos/local": true,
+        "client/cocos/packages": true,
+        "client/cocos/settings": true,
+        "client/cocos/temp": true,
+        "client/cocos/.gitignore": true,
+        "client/cocos/creator.d.ts": true,
+        "client/cocos/**/*.meta": true,
+
+        "client/egret/.wing": true,
+        "client/egret/bin-debug": true,
+        "client/egret/bin-release": true,
+        "server": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}
